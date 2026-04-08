@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfolio Dataset</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f4f4f4;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 30px;
+            background: white;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Student Portfolio Dataset</h1>
+
+<h2>👤 Student Info</h2>
+<table>
+<tr>
+    <th>Name</th>
+    <th>Education</th>
+    <th>Interest</th>
+    <th>Goal</th>
+    <th>Strength</th>
+</tr>
+<tr>
+    <td>Arjun</td>
+    <td>B.Tech CSE</td>
+    <td>AI & Data Science</td>
+    <td>Machine Learning Engineer</td>
+    <td>Analytical Thinking</td>
+</tr>
+</table>
+
+<h2>💻 Projects</h2>
+<table>
+<tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Link</th>
+</tr>
+<tr>
+    <td>AI4A Project</td>
+    <td>Disease prediction using ML</td>
+    <td>https://github.com/sample/ai4a</td>
+</tr>
+<tr>
+    <td>Design Thinking</td>
+    <td>User-friendly mobile app design</td>
+    <td>https://github.com/sample/design</td>
+</tr>
+<tr>
+    <td>ACE Project</td>
+    <td>Automation system using Python</td>
+    <td>https://github.com/sample/ace</td>
+</tr>
+</table>
+
+<h2>🏆 Achievements</h2>
+<table>
+<tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Year</th>
+</tr>
+<tr>
+    <td>Coursera Certificate</td>
+    <td>Machine Learning Course</td>
+    <td>2024</td>
+</tr>
+<tr>
+    <td>NetAcad Certificate</td>
+    <td>Networking Fundamentals</td>
+    <td>2023</td>
+</tr>
+<tr>
+    <td>Yuva AI Certificate</td>
+    <td>AI Basics Program</td>
+    <td>2024</td>
+</tr>
+</table>
+
+</body>
+</html>
