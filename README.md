@@ -1,1 +1,2 @@
-# studentportfolio.github.io
+# Student Portfolio
+Simple portfolio website using HTML, CSS, JS.
